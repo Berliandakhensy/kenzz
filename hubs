@@ -1,7 +1,7 @@
 
 local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/twink"))()
  
-local MainUI = UILibrary.Load("KENZ X ( COMEBACK )")
+local MainUI = UILibrary.Load("KENZ X ( COMEBACK🔥 )")
 local FirstPage = MainUI.AddPage("Home")
 local FirstLabel = FirstPage.AddLabel("Welcome " .. game.Players.LocalPlayer.DisplayName)
 local FirstLabel = FirstPage.AddLabel("-- STATUS : RELEASE --")
@@ -9,7 +9,7 @@ local FirstLabel = FirstPage.AddLabel("| WE HIT 100+ SCRIPTS! EZEZEZ |")
 local FirstLabel = FirstPage.AddLabel("| SUPPORT yaniss78 and vezt |")
 local FirstLabel = FirstPage.AddLabel("| NOTE: To the Showcasers on mobile drag ")
 local FirstLabel = FirstPage.AddLabel("|update : Ken x becomes Kenz x, add ghost hub|")
-local FirstLabel = FirstPage.AddLabel("-- KENZ X Released! --")
+local FirstLabel = FirstPage.AddLabel("-- KENZ X Released! ( top #5 ) --")
 local FirstButton = FirstPage.AddButton("Keyboard Script", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 end)  

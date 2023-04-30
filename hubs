@@ -13,6 +13,11 @@ local FirstLabel = FirstPage.AddLabel("-- XX HUB Released! ( top #5 ) --")
 local FirstButton = FirstPage.AddButton("Keyboard Script", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 end)  
+local FirstButton = FirstPage.AddButton("HACKED hotel ELEPHANT", function()
+
+    loadstring(game:HttpGet("https://pastebinp.com/raw/0CbyREmX", true))()
+
+end)  
 local FirstPage = MainUI.AddPage("Scripts")
 local FirstLabel = FirstPage.AddLabel("Scripts")
 local FirstLabel = FirstPage.AddLabel("-- NOTE: NO reason")

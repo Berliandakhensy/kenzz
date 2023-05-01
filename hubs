@@ -39,9 +39,9 @@ local FirstButton = FirstPage.AddButton("Keyboard Script", function()
 end)  
 local FirstButton = FirstPage.AddButton("Da hood", function()
 
-    loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/cjdjmj/new-ui-godmode/main/README.md", true))()", true))()
-end)
+    loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/cjdjmj/new-ui-godmode/main/README.md", true))()
 
+end)
 local FirstButton = FirstPage.AddButton("Backdoor SS", function()
 --[[
     backdoor.exe, the best backdoor scanner in Roblox.

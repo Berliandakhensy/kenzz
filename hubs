@@ -37,6 +37,11 @@ local FirstLabel = FirstPage.AddLabel("KENZ RELEASE --")
 local FirstButton = FirstPage.AddButton("Keyboard Script", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 end)  
+local FirstButton = FirstPage.AddButton("Da hood", function()
+
+    loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/cjdjmj/new-ui-godmode/main/README.md", true))()", true))()
+
+end)  
 local FirstButton = FirstPage.AddButton("Backdoor SS", function()
 --[[
     backdoor.exe, the best backdoor scanner in Roblox.

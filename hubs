@@ -9,12 +9,17 @@ local FirstButton = FirstPage.AddButton("USE FPS", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/jcZEi0tv", true))()
 
 end)  
+local FirstButton = FirstPage.AddButton("FPS BOOSTER ⚠️", function()
+
+    loadstring(game:HttpGet("https://pastebin.com/raw/ywFjby1i", true))()
+
+end)  
 local FirstLabel = FirstPage.AddLabel("Welcome " .. game.Players.LocalPlayer.DisplayName)
 local FirstLabel = FirstPage.AddLabel("-- STATUS : WORKING --")
 local FirstLabel = FirstPage.AddLabel("| 102+ SCRIPTS! |")
 local FirstLabel = FirstPage.AddLabel("| SUPPORT yaniss78 and vezt |")
 local FirstLabel = FirstPage.AddLabel("| NOTE: To the Showcasers on mobile drag ")
-local FirstLabel = FirstPage.AddLabel("|update : rename kenZ to XX HUB|")
+local FirstLabel = FirstPage.AddLabel("|update : XX HUB ADD FPS?|")
 local FirstLabel = FirstPage.AddLabel("-- XX HUB Released! ( top #5 ) --")
 local FirstButton = FirstPage.AddButton("Keyboard Script", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()

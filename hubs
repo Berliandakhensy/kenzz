@@ -3,6 +3,7 @@ local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/blo
  
 local MainUI = UILibrary.Load("INDONESIAN 🇮🇩HUB")
 local FirstPage = MainUI.AddPage("Home")
+local FirstLabel = FirstPage.AddLabel("-- CREDITS BY INDONESIAN HUB🇮🇩 IN DISCORD--")
 local FirstLabel = FirstPage.AddLabel("-- USE FPS⚠️ --")
 local FirstButton = FirstPage.AddButton("USE FPS", function()
 
